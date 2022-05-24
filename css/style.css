@@ -1,0 +1,77 @@
+@font-face {
+  font-family: CircularStdBook;
+  src: url(../font/CircularStdBook.ttf);
+}
+body {
+  font-family: CircularStdBook !important;
+  /*background: #fffefc !important;*/
+}
+.user-inf{
+  text-align: center;
+}
+.link-fa-icon{
+  transition: 0.4s;
+  font-size: 18px;
+  color: rgba(17, 17, 17, 0.769);
+}
+.link-fa-icon:hover{
+  transition: 0.4s;
+  font-size: 18px;
+  color: #ffd38b;
+}
+.btn-DownloadCV{
+  background: linear-gradient(-45deg, #ffeac8, #ffd38b);
+  border: none !important;
+  box-shadow: 0 1rem 3rem #ffd38b57 !important;
+}
+.nav-pills{
+  width: 350px;
+  background: #f8f9fa;
+  border-radius: 10px;
+  padding: 10px;
+}
+.nav-link{
+  border-radius: 10px !important;
+  width: 150px;
+  color: #111 !important;
+}
+.nav-link:hover{
+  background: #fff !important;
+  border-radius: 10px !important;
+  width: 150px;
+  color: #111 !important;
+}
+.nav-link.active{
+  background: #fff !important;
+  border-radius: 10px !important;
+  width: 150px;
+  color: #111 !important;
+}
+.img-user{
+  width: 180px;
+}
+.card-projects{
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  object-fit: cover !important;
+  height: 300px;
+  border-radius: 20px !important;
+  border: none !important;
+}
+.card-body-project{
+  transition: 0.5s;
+  background:#000000a8; 
+  border-radius: 20px; 
+  color: #fff; 
+  text-align: left;
+  opacity: 0;
+}
+.card-body-project:hover{
+  transition: 0.5s;
+  background:#000000a8; 
+  border-radius: 20px; 
+  color: #fff; 
+  text-align: left;
+  opacity: 1;
+}
