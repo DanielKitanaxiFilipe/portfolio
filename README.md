@@ -1,2 +1,3 @@
 # portfolio
-O portfólio é uma compilação de materiais ou trabalhos desenvolvidos por um profissional (ou empresa) que demonstra suas habilidades, competências, qualificações e experiências. Um portfólio pode ser usado para atrair clientes, fechar negócios, candidatar a empregos e outros fins acadêmicos.
+A portfolio is a compilation of materials or work developed by a professional (or company) that demonstrates his or her skills, competencies, qualifications, and experiences. A portfolio can be used to attract clients, close deals, apply for jobs, and other academic purposes.
+
